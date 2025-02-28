@@ -1,8 +1,8 @@
-# Programowanie arkuszy kalkulacyjnych (semestr 2023/2024L)
+# Programowanie arkuszy kalkulacyjnych (semestr 2024/2025L)
 
 ## 1. Sylabus
 
-Zostanie załączony w najbliższym czasie.
+Sylabus jest dostępny [tu](20S1O-PAK2024L.pdf)
 
 ## 2. Zasady zaliczenia przedmiotu.
 
